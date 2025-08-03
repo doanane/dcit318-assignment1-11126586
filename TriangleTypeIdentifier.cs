@@ -40,9 +40,9 @@ namespace Assignment1
 
         static string DetermineTriangleType(double a, double b, double c)
         {
-            if (a == b && b == c) return "Equilateral";
-            if (a == b || a == c || b == c) return "Isosceles";
-            return "Scalene";
+            if (a == b && b == c) return "Equilateral Triangle";
+            if (a == b || a == c || b == c) return "Isosceles Triangle";
+            return "Scalene Triangle";
         }
     }
 }
