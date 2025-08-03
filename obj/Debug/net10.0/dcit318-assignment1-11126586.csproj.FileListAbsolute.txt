@@ -1,0 +1,14 @@
+C:\Users\anane\Documents\dcit318-assignment1-11126586\bin\Debug\net10.0\dcit318-assignment1-11126586.exe
+C:\Users\anane\Documents\dcit318-assignment1-11126586\bin\Debug\net10.0\dcit318-assignment1-11126586.deps.json
+C:\Users\anane\Documents\dcit318-assignment1-11126586\bin\Debug\net10.0\dcit318-assignment1-11126586.runtimeconfig.json
+C:\Users\anane\Documents\dcit318-assignment1-11126586\bin\Debug\net10.0\dcit318-assignment1-11126586.dll
+C:\Users\anane\Documents\dcit318-assignment1-11126586\bin\Debug\net10.0\dcit318-assignment1-11126586.pdb
+C:\Users\anane\Documents\dcit318-assignment1-11126586\obj\Debug\net10.0\dcit318-assignment1-11126586.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anane\Documents\dcit318-assignment1-11126586\obj\Debug\net10.0\dcit318-assignment1-11126586.AssemblyInfoInputs.cache
+C:\Users\anane\Documents\dcit318-assignment1-11126586\obj\Debug\net10.0\dcit318-assignment1-11126586.AssemblyInfo.cs
+C:\Users\anane\Documents\dcit318-assignment1-11126586\obj\Debug\net10.0\dcit318-assignment1-11126586.csproj.CoreCompileInputs.cache
+C:\Users\anane\Documents\dcit318-assignment1-11126586\obj\Debug\net10.0\dcit318-assignment1-11126586.dll
+C:\Users\anane\Documents\dcit318-assignment1-11126586\obj\Debug\net10.0\refint\dcit318-assignment1-11126586.dll
+C:\Users\anane\Documents\dcit318-assignment1-11126586\obj\Debug\net10.0\dcit318-assignment1-11126586.pdb
+C:\Users\anane\Documents\dcit318-assignment1-11126586\obj\Debug\net10.0\dcit318-assignment1-11126586.genruntimeconfig.cache
+C:\Users\anane\Documents\dcit318-assignment1-11126586\obj\Debug\net10.0\ref\dcit318-assignment1-11126586.dll
