@@ -17,7 +17,7 @@ namespace Assignment1
             
 
             decimal price = (age <= 12 || age >= 65) ? 7.00m : 10.00m;
-            Console.WriteLine($"Ticket price: GHC{price:F2}");
+            Console.WriteLine($"Ticket price: GH₵{price:F2}");
             Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
         }
