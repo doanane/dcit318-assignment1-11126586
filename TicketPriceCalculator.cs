@@ -14,6 +14,7 @@ namespace Assignment1
                 Console.WriteLine("Invalid input. Please enter a positive integer.");
                 return;
             }
+            
 
             decimal price = (age <= 12 || age >= 65) ? 7.00m : 10.00m;
             Console.WriteLine($"Ticket price: GHC{price:F2}");
